@@ -1,0 +1,16 @@
+# Pet&Pet — sitio web
+
+## Archivos
+- `index.html`: estructura y contenido de la página.
+- `styles.css`: diseño adaptable a móviles, tabletas y escritorio.
+- `script.js`: menú móvil, navegación activa y formulario que prepara el mensaje en WhatsApp.
+- `assets/`: logo SVG y fotografías usadas en la página.
+
+## Cómo visualizar
+Abre `index.html` en un navegador. Para publicar, sube la carpeta completa conservando la estructura de archivos.
+
+## Antes de publicar
+- Las reseñas incluidas son ejemplos ilustrativos; reemplázalas por opiniones reales y autorizadas.
+- Confirma disponibilidad, horarios, alcance de urgencias y condiciones de hospitalización.
+- Revisa que el correo, teléfono, dirección y WhatsApp sean los datos definitivos.
+- Las fotografías de la galería y el hero son imágenes ilustrativas generadas para esta maqueta.

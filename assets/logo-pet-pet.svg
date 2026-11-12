@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 112" role="img" aria-labelledby="title desc">
+<title id="title">Pet&amp;Pet</title><desc id="desc">Logo minimalista con siluetas de perro y gato en morado y fucsia.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#552080"/><stop offset="1" stop-color="#ef168b"/></linearGradient></defs>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+<path d="M22 70 Q7 56 15 34 Q22 12 48 14 Q70 14 78 33 L84 57 Q85 78 67 83 L55 74 L42 87 Q25 86 22 70Z" stroke="#552080"/>
+<path d="M27 30 L20 17 M67 30 L78 18 M39 48h1 M60 48h1 M42 65q9 8 18 0" stroke="#552080"/>
+<path d="M68 75 Q76 49 98 48 Q119 49 126 75 Q127 92 108 94 L97 86 L85 94 Q67 91 68 75Z" stroke="#ef168b"/>
+<path d="M78 55 L72 40 L88 47 M112 55 L121 40 L105 47 M89 70h1 M105 70h1 M91 81q6 5 12 0" stroke="#ef168b"/>
+</g>
+<path d="M128 26h-5" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+<text x="145" y="65" font-family="Arial, sans-serif" font-size="49" font-weight="800" fill="#552080">Pet<tspan fill="#ed168b">&amp;Pet</tspan></text>
+<text x="148" y="91" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#552080">AMOR Y CUIDADO EN UN SOLO LUGAR</text>
+</svg>
